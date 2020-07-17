@@ -24,7 +24,6 @@ ________
     * [Serverless](#serverless)
 * [Prerequisites](#prerequisites)
 * [License](#license)
-* [Contact](#contact)
 * [Group Members](#group-members)
 * [Mentor](#mentor)
 
@@ -68,24 +67,12 @@ ________
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-<!-- CONTACT -->
-## Contact
-
-Gajanana Ganjigatti 
-   - [Gaju_on_Twitter](https://twitter.com/Gajucg)
-   - [Gaju_on_LinkedIn](https://www.linkedin.com/in/gajanana-ganjigatti/)
-Anilkumar N Bhatt
-   - [Anil_on_LinkedIn](https://www.linkedin.com/in/anilkumar-n-bhatt/)
-Maruthi Srinivas
-   - [Maruthi](https://www.linkedin.com/in/maruthi-srinivas-m/)
-
 <!-- GROUP MEMBERS -->
 ## Group Members
-  - [Anilkumar N Bhatt](https://github.com/anilbhatt1)
-  - [Gajanana Ganjigatti](https://github.com/gaju27)
-  - [Maruthi Srinivas](https://github.com/mmaruthi)
-  - [Sridevi B](https://github.com/sridevibonthu)
+  - [Anilkumar N Bhatt](https://github.com/anilbhatt1) , [Anil_on_LinkedIn](https://www.linkedin.com/in/anilkumar-n-bhatt/)
+  - [Gajanana Ganjigatti](https://github.com/gaju27) , [Gaju_on_LinkedIn](https://www.linkedin.com/in/gajanana-ganjigatti/)
+  - [Maruthi Srinivas](https://github.com/mmaruthi) , [Maruthi](https://www.linkedin.com/in/maruthi-srinivas-m/)
+  - [Sridevi B](https://github.com/sridevibonthu) , [Sridevi_on_LinkedIn](https://www.linkedin.com/in/sridevi-bonthu/)
   - [SMAG TEAM](https://github.com/SMAGEVA4/session1/tree/master/Session1) :performing_arts: team github account
 
 <!-- MENTOR -->
